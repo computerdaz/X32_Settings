@@ -1,0 +1,37 @@
+#2.7# "Pre Post Foyer" 4608 14680064 67108871 64 1                                                                             
+/ch/22/mix/09 ON -28.5 +0 EQ->
+/ch/22/mix/10 ON -35.0
+/ch/22/mix/11 ON   -oo +0 EQ->
+/ch/22/mix/12 OFF   -oo
+/ch/23/mix/09 ON -23.5 +0 EQ->
+/ch/23/mix/10 ON -24.0
+/ch/23/mix/11 ON   -oo +0 EQ->
+/ch/23/mix/12 OFF   -oo
+/ch/24/mix/09 ON -27.5 +0 EQ->
+/ch/24/mix/10 ON -23.0
+/ch/24/mix/11 ON   -oo +0 EQ->
+/ch/24/mix/12 OFF   -oo
+/auxin/01/mix/09 ON   -oo -100 EQ->
+/auxin/01/mix/10 OFF   -oo
+/auxin/01/mix/11 ON -10.0 -100 PRE
+/auxin/01/mix/12 OFF   -oo
+/auxin/02/mix/09 ON   -oo +100 EQ->
+/auxin/02/mix/10 OFF   -oo
+/auxin/02/mix/11 ON -10.0 +100 PRE
+/auxin/02/mix/12 OFF   -oo
+/auxin/03/mix/09 ON -47.0 +0 EQ->
+/auxin/03/mix/10 OFF   -oo
+/auxin/03/mix/11 ON -10.0 +0 POST
+/auxin/03/mix/12 OFF   -oo
+/bus/11/mix/01 ON   -oo +0 POST
+/bus/11/mix/02 ON   -oo
+/bus/11/mix/03 ON   -oo +0 POST
+/bus/11/mix/04 ON   -oo
+/bus/11/mix/05 ON   -oo +0 POST
+/bus/11/mix/06 ON   0.0
+/main/st/mix/01 ON   0.0 +0 POST
+/main/st/mix/02 ON   0.0
+/main/st/mix/03 ON   0.0 +0 POST
+/main/st/mix/04 ON   0.0
+/main/st/mix/05 ON   -oo +0 POST
+/main/st/mix/06 ON   -oo
